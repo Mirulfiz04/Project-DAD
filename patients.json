@@ -1,0 +1,40 @@
+[
+    {
+        "password": "abc123",
+        "phone": "01111514367",
+        "date_of_birth": "2003-10-09",
+        "name": "kessigan",
+        "id": 1,
+        "email": "kessigan@gmail.com"
+    },
+    {
+        "password": "patient123",
+        "phone": "1234567890",
+        "date_of_birth": "1980-05-15",
+        "name": "John Doe",
+        "id": 2,
+        "email": "john@example.com"
+    },
+    {
+        "password": "patient123",
+        "phone": "9876543210",
+        "date_of_birth": "1990-08-21",
+        "name": "Jane Smith",
+        "id": 3,
+        "email": "jane@example.com"
+    },
+    {
+        "password": "abc123",
+        "phone": "0172480218",
+        "date_of_birth": "2004-04-28",
+        "name": "Amirul Hafiz",
+        "id": 4,
+        "email": "amirulhafiz@gmail.com"
+    },
+    {
+        "password": "abc123",
+        "name": "lalala",
+        "id": 5,
+        "email": "lalala@gmail.com"
+    }
+]

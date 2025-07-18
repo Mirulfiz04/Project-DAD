@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2025-07-02",
+        "treatmentType": "Medication",
+        "notes": "Not feeling well",
+        "patientId": 2,
+        "doctorId": 1,
+        "appointmentId": 5,
+        "diagnosis": "Cough",
+        "medication": "Paracetamol",
+        "time": "11:00:00"
+    },
+    {
+        "date": "2025-07-01",
+        "treatmentType": "Medication",
+        "notes": "Rest for 2 days",
+        "patientId": 1,
+        "doctorId": 1,
+        "appointmentId": 1,
+        "diagnosis": "Common cold",
+        "medication": "Paracetamol",
+        "time": "09:00:00"
+    },
+    {
+        "date": "2025-07-02",
+        "treatmentType": "Physical Therapy",
+        "notes": "Use ice pack",
+        "patientId": 2,
+        "doctorId": 1,
+        "appointmentId": 2,
+        "diagnosis": "Sprained ankle",
+        "medication": "Ibuprofen",
+        "time": "11:00:00"
+    },
+    {
+        "date": "2025-07-19",
+        "treatmentType": "Medication",
+        "notes": "try test",
+        "patientId": 1,
+        "doctorId": 1,
+        "appointmentId": 13,
+        "diagnosis": "Sakit Cinta",
+        "medication": "Paracetamol",
+        "time": "09:00:00"
+    },
+    {
+        "date": "2025-07-20",
+        "treatmentType": "Medication",
+        "notes": "2 times a day",
+        "patientId": 1,
+        "doctorId": 1,
+        "appointmentId": 14,
+        "diagnosis": "Demam",
+        "medication": "Paracetamol",
+        "time": "09:00:00"
+    },
+    {
+        "date": "2025-07-18",
+        "treatmentType": "Physical Therapy",
+        "notes": "Bagi sehat",
+        "patientId": 1,
+        "doctorId": 1,
+        "appointmentId": 16,
+        "diagnosis": "Tekanan Jiwa",
+        "medication": "Vitamin D",
+        "time": "09:00:00"
+    }
+]

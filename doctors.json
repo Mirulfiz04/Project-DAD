@@ -1,0 +1,37 @@
+[
+    {
+        "password": "abc123",
+        "name": "Dr.John",
+        "specialization": "Eye",
+        "id": 1,
+        "email": "john21@gmail.com"
+    },
+    {
+        "password": "abc123",
+        "name": "Dr.David",
+        "specialization": "General Health",
+        "id": 2,
+        "email": "david20@gmail.com"
+    },
+    {
+        "password": "doctor123",
+        "name": "Dr. Smith",
+        "specialization": "Cardiology",
+        "id": 3,
+        "email": "dr.smith@clinic.com"
+    },
+    {
+        "password": "doctor123",
+        "name": "Dr. Johnson",
+        "specialization": "Neurology",
+        "id": 4,
+        "email": "dr.johnson@clinic.com"
+    },
+    {
+        "password": "abc123",
+        "name": "DoctorJames",
+        "specialization": "Medication",
+        "id": 5,
+        "email": "doctorjames@gmail.com"
+    }
+]
